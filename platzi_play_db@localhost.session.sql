@@ -1,0 +1,1 @@
+select * FROM platzi_play_peliculas
